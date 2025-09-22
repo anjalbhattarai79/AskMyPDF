@@ -1,0 +1,18 @@
+# LangChain Core
+langchain
+langchain-core
+langchain_community
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+chromadb
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+pypdf
